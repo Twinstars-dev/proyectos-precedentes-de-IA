@@ -1,2 +1,2 @@
 nombre="danna"
-print(f'hola {nombre})
+print(f'hola {nombre}')
