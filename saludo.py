@@ -1,1 +1,4 @@
-print('esta es la rama 1 xd')
+nombre="Ander"
+def saludar():
+    print("hola ",nombre)
+saludar()
